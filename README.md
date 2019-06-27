@@ -6,11 +6,11 @@ This is a test
 
 My name is Erica Hoots.
 
-I am a rising sophomore at George Mason University studying information technology.
+I am a rising sophomore at George Mason University studying information technology (IT).
 
 ```markdown
 I plan to concentrate in **two** areas of IT:
 
-* Database Administration & Programming
-* Security
+ * Database Administration & Programming
+ * Security
 ```
