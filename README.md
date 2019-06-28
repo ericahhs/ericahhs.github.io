@@ -1,7 +1,7 @@
 # Erica Hoots
 
 # CONTACT ME
-Email: xxxxxxx@hotmail.com
+Email: xxxxxxx@hotmail.com\
 Phone: xxx.xxx.xxxx
 
 ## OBJECTIVE
@@ -9,8 +9,8 @@ To obtain a summer internship to expand my knowledge in IT careers and programmi
 
 ## EDUCATION
 
-George Mason University
-Aug 2018 - Present
+George Mason University<br>
+Aug 2018 - Present<br>
 Information Technology (IT)
 ```markdown
 Planned Concentrations:
