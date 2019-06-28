@@ -1,6 +1,6 @@
 # Erica Hoots
 
-# CONTACT ME
+### CONTACT ME
 Email: xxxxxxx@hotmail.com<br>
 Phone: xxx.xxx.xxxx
 
@@ -30,7 +30,7 @@ Summer Intern (Legal department)
 
 Member of Key Club<br>
 Aug 2015 - May 2018<br>
-	Volunteered at various locations within the club
+Volunteered at various locations within the club
 	
 Holiday Bell Ringer<br>
 Salvation Army<br>
