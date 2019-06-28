@@ -15,7 +15,7 @@ Planned Concentrations:
  + Database Administration & Programming
  + Security
 ```
-Overall GPA: 3.96
+Overall GPA: 3.96<br>
 Department GPA: 4.0
 
 ## EXPERIENCE
