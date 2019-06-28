@@ -1,17 +1,24 @@
-# Erica Hoots' Website!
+# Erica Hoots
 
-My name is Erica Hoots.
+# CONTACT ME
+Email: xxxxxxx@hotmail.com
+Phone: xxx.xxx.xxxx
+
+## OBJECTIVE
+To obtain a summer internship to expand my knowledge in IT careers and programming.
 
 ## EDUCATION
 
-I am a rising sophomore at George Mason University studying information technology (IT).
-
+George Mason University
+Aug 2018 - Present
+Information Technology (IT)
 ```markdown
-I plan to concentrate in **two** areas of IT:
+Planned Concentrations:
 
- * Database Administration & Programming
- * Security
+* Database Administration & Programming
+* Security
 ```
+Overall GPA: 3.96
 
 ## EXPERIENCE
 
