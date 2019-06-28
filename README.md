@@ -1,9 +1,5 @@
 # Erica Hoots' Website!
 
-Hello, world!
-
-This is a test
-
 My name is Erica Hoots.
 
 ## EDUCATION
@@ -18,3 +14,17 @@ I plan to concentrate in **two** areas of IT:
 ```
 
 ## EXPERIENCE
+
+National Rural Telecommunications Cooperative (NRTC)
+Jun 2018 - Aug 2018
+Summer Intern (Legal department)
+
+## VOLUNTEER
+
+Member of Key Club
+Aug 2015 - May 2018
+	Volunteered at various locations within the club
+	
+Holiday Bell Ringer
+Salvation Army
+Nov 2016 - Jan 2018
