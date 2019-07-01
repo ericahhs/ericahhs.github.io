@@ -7,12 +7,10 @@ To expand my knowledge in IT careers and programming.
 
 ## EDUCATION
 George Mason University<br> Aug 2018 - Present<br> Information Technology (IT)<br>
-```markdown
-Planned Concentrations:
+*Planned Concentrations*:
 + Database Administration & Programming
 + Security
-```
-Overall GPA: 3.96<br> Department GPA: 4.0
+*Overall GPA*: 3.96<br> Department GPA: 4.0
 
 ## EXPERIENCE
 National Rural Telecommunications Cooperative (NRTC)<br> Jun 2018 - Aug 2018<br> 
