@@ -28,7 +28,7 @@ Member of Key Club<br>
 Aug 2015 - May 2018<br>
 Volunteered at various locations within the club
 	
-Holiday Bell Ringer<br>
+Holiday Donation Collector (Bell Ringer)<br>
 Salvation Army<br>
 Nov 2016 - Jan 2018
 
