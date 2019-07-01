@@ -3,7 +3,7 @@
 #### CONTACT ME<br> Email: xxxxxxx@hotmail.com<br> Phone: xxx.xxx.xxxx
 
 ## OBJECTIVE
-To obtain a summer internship to expand my knowledge in IT careers and programming.
+To expand my knowledge in IT careers and programming.
 
 ## EDUCATION
 George Mason University<br>
@@ -31,3 +31,7 @@ Volunteered at various locations within the club
 Holiday Bell Ringer<br>
 Salvation Army<br>
 Nov 2016 - Jan 2018
+
+## SKILLS
+Microsoft Word, Powerpoint, Excel<br>
+Programming Languages: Python, HTML, Java<br>
