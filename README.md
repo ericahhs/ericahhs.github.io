@@ -6,32 +6,28 @@
 To expand my knowledge in IT careers and programming.
 
 ## EDUCATION
-George Mason University<br>
-Aug 2018 - Present<br>
-Information Technology (IT)<br>
+George Mason University<br> Aug 2018 - Present<br> Information Technology (IT)<br>
 ```markdown
 Planned Concentrations:
-
- + Database Administration & Programming
- + Security
++ Database Administration & Programming
++ Security
 ```
-Overall GPA: 3.96<br>
-Department GPA: 4.0
+Overall GPA: 3.96<br> Department GPA: 4.0
 
 ## EXPERIENCE
-National Rural Telecommunications Cooperative (NRTC)<br>
-Jun 2018 - Aug 2018<br>
+National Rural Telecommunications Cooperative (NRTC)<br> Jun 2018 - Aug 2018<br> 
 Summer Intern (Legal department)
 
 ## VOLUNTEER
-Member of Key Club<br>
-Aug 2015 - May 2018<br>
-Volunteered at various locations within the club
+Member of Key Club<br> Aug 2015 - May 2018<br> Volunteered at various locations within the club
 	
-Holiday Donation Collector (Bell Ringer)<br>
-Salvation Army<br>
-Nov 2016 - Jan 2018
+Holiday Donation Collector (Bell Ringer)<br> Salvation Army<br> Nov 2016 - Jan 2018
 
 ## SKILLS
-Microsoft Word, Powerpoint, Excel<br>
-Programming Languages: Python, HTML, Java<br>
+Microsoft Word, Powerpoint, Excel<br> Programming Languages: Python, HTML, Java<br>
+
+## RELEVANT COURSES
++ Intro to Calculus with Business Applications<br> 
++ IT Architecture Fundamentals<br>
++ Intro to Computing<br> 
++ Discrete Structures
