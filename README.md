@@ -23,7 +23,10 @@ Member of Key Club<br> Aug 2015 - May 2018<br> Volunteered at various locations 
 Holiday Donation Collector (Bell Ringer)<br> Salvation Army<br> Nov 2016 - Jan 2018
 
 ## SKILLS
+#### TECHNICAL SKILLS
 Microsoft Word, Powerpoint, Excel<br> Programming Languages: Python, HTML, Java<br>
+#### SOFT SKILLS
+Organized<br> Detail-Oriented<br> Creative
 
 ## RELEVANT COURSES
 + Intro to Calculus with Business Applications<br> 
