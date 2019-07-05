@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Professional Website
 description: This is a professional website for Erica!
-logo: <img scr = "images/Test image.png" alt = "Test">
+logo: <img scr = "/images/Test image.png" alt = "Test">
