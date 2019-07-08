@@ -1,11 +1,9 @@
 #### CONTACT ME<br> Email: xxxxxxx@hotmail.com<br> Phone: xxx.xxx.xxxx
 
-Alt-OBJECTIVE
------
+## OBJECTIVE
 To expand my knowledge in IT careers and programming.
 
-Alt-EDUCATION
------
+## EDUCATION
 George Mason University<br> Aug 2018 - Present<br> Information Technology (IT)<br>
 **Planned Concentrations**: 
 + Database Administration & Programming
