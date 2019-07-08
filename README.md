@@ -1,5 +1,3 @@
-# Erica Hoots
-
 #### CONTACT ME<br> Email: xxxxxxx@hotmail.com<br> Phone: xxx.xxx.xxxx
 
 ## OBJECTIVE
