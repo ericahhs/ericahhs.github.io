@@ -1,5 +1,5 @@
 # Erica Hoots
-
+image: images/Test image.png[Testing picture]
 #### CONTACT ME<br> Email: xxxxxxx@hotmail.com<br> Phone: xxx.xxx.xxxx
 
 ## OBJECTIVE
