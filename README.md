@@ -15,7 +15,7 @@ George Mason University<br> Aug 2018 - Present<br> Information Technology (IT)<b
 National Rural Telecommunications Cooperative (NRTC)<br> Jun 2018 - Aug 2018<br> 
 Summer Intern (Legal department)<br><br>
 National Aeronautics and Space Administration (NASA)<br> Jun 2019 - Aug 2019<br>
-ITCD Summer Intern (Information Technology & Communications Division)
+Summer Intern (Information Technology & Communications Division)
 
 ## VOLUNTEER
 Member of Key Club<br> Aug 2015 - May 2018<br> Volunteered at various locations within the club
