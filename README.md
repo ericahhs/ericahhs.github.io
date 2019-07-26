@@ -18,10 +18,9 @@ Summer Intern (Information Technology & Communications Division)
 + Reviewed risk management documents (SP 800-37 revision 2)
 + Organized weekly data reports<br>
 
-## VOLUNTEER
-Member of Key Club<br> Aug 2015 - May 2018<br> Volunteered at various locations within the club
-	
-Holiday Donation Collector (Bell Ringer)<br> Salvation Army<br> Nov 2016 - Jan 2018
+## VOLUNTEER/ORGANIZATIONS
+Member of Key Club<br> Aug 2015 - May 2018<br> Volunteered at various locations within the club<br> Holiday Donation Collector (Bell Ringer)<br> Salvation Army<br> Nov 2016 - Jan 2018<br>
+Guitarist<br> Aug 2012 - May 2018<br> Member of classical guitar ensembles in Middle and High School<br>	
 ## SKILLS
 #### TECHNICAL SKILLS
 Microsoft Word, Powerpoint, Excel<br> Programming Languages: Python, HTML, Java<br>
