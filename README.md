@@ -19,7 +19,7 @@ Summer Intern (Information Technology & Communications Division)
 + Organized weekly data reports<br>
 
 ## VOLUNTEER/ORGANIZATIONS
-*Member of Key Club*<br> Aug 2015 - May 2018<br> Volunteered at various locations within the club<br><br> *Holiday Donation Collector (Bell Ringer)*<br> Salvation Army<br> Nov 2016 - Jan 2018<br><br> *Guitarist*<br> Aug 2012 - May 2018<br> Member of classical guitar ensembles in Middle and High School<br>	
+*Member of Key Club*<br> Aug 2015 - May 2018<br> Volunteered at various locations with the club<br><br> *Holiday Donation Collector (Bell Ringer)*<br> Salvation Army<br> Nov 2016 - Jan 2018<br><br> *Guitarist*<br> Aug 2012 - May 2018<br> Member of classical guitar ensembles in Middle and High School<br>	
 ## SKILLS
 #### TECHNICAL SKILLS
 Microsoft Word, Powerpoint, Excel<br> Programming Languages: Python, HTML, Java<br> Git and GitHub<br>
