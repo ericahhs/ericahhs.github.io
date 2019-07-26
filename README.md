@@ -16,7 +16,7 @@ Summer Intern (Information Technology & Communications Division)
 + Reviewed risk management documents (SP 800-37 revision 2)
 + Organized weekly data reports<br>
 
-*National Rural Telecommunications Cooperative (NRTC)*<br> Jun 2018 - Aug 2018<br> Summer Intern (Legal Department)<br><br>
+*National Rural Telecommunications Cooperative (NRTC)*<br> Jun 2018 - Aug 2018<br> Summer Intern (Legal Department)<br>
 
 ## VOLUNTEER/ORGANIZATIONS
 *Member of Key Club*<br> Aug 2015 - May 2018<br> Volunteered at various locations with the club<br><br> *Holiday Donation Collector (Bell Ringer)*<br> Salvation Army<br> Nov 2016 - Jan 2018<br><br> *Guitarist*<br> Aug 2012 - May 2018<br> Member of classical guitar ensembles in Middle and High School<br>	
