@@ -1,4 +1,4 @@
-#### CONTACT INFORMATION<br> Email: hootsep@hotmail.com<br>
+#### CONTACT INFO<br> Email: hootsep@hotmail.com<br>
 ## OBJECTIVE
 To explore IT careers and expand my knowledge in programming while sharing my knowledge of information technologies to create more efficient solutions
 ## EDUCATION
