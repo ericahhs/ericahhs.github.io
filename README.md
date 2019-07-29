@@ -18,9 +18,9 @@ Summer Intern (Information Technology & Communications Division)
 + Organized weekly data reports<br>
 
 *National Rural Telecommunications Cooperative (NRTC)*<br> Jun 2018 - Aug 2018<br> Summer Intern (Legal Department)<br>
-+ Supported the Contracts and Legal Administration Manager
-+ Connected legal documents to company's database, NetSuite
-+ Organized Share file documents and created a naming convention to provide an efficient method for locating documents
++ Supported the Contracts and Legal Administration Manager in:
+	+ Connecting legal documents to company's database, NetSuite
+	+ Organizing Share file documents and creating a naming convention to provide an efficient method for locating documents
 + Participated in annual distribution of mailing for company members
 
 ## VOLUNTEER/ORGANIZATIONS
