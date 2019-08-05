@@ -1,4 +1,4 @@
-###### This is a personal website with information similar to my resume!
+##### This is a personal website with information similar to my resume! (This is not my official resume)
 #### CONTACT INFO<br> Email: hootsep@hotmail.com<br>
 ## OBJECTIVE
 To explore IT careers and expand my knowledge in programming while sharing my knowledge of information technologies to create more efficient solutions
