@@ -1,5 +1,5 @@
 ##### This is a personal website with information similar to my resume! (This is not my official resume)
-#### CONTACT INFO<br> Email: hootsep@hotmail.com<br>
+#### CONTACT INFO<br> LinkedIn: linkedin.com/in/erica-hoots/
 ## OBJECTIVE
 To explore IT careers and expand my knowledge in programming while sharing my knowledge of information technologies to create more efficient solutions
 ## EDUCATION
@@ -25,7 +25,7 @@ Summer Intern (Information Technology & Communications Division)
 + Participated in annual distribution of mailing for company members
 
 ## VOLUNTEER/ORGANIZATIONS
-*Member of Student-Run Computing and Technology (SRCT)*<br> Sept 2019 - Present<br> Supporting the management of university web pages through GitLab<br> Using git and GitLab to provide meaningful contributions to ongoing projects<br><br>*Member of Key Club*<br> Aug 2015 - May 2018<br> Volunteered at various locations with the club<br><br> *Holiday Donation Collector (Bell Ringer)*<br> Nov 2016 - Jan 2018<br> Volunteered for Salvation Army to collect donations during the holiday season<br><br> *Guitarist*<br> Aug 2012 - May 2018<br> Member of classical guitar ensembles in Middle and High School<br>	
+*Student-Run Computing and Technology (SRCT)*<br> Sept 2019 - Present<br> *Member*<br> Supporting the management of university web pages through GitLab<br> Using git and GitLab to provide meaningful contributions to ongoing projects<br><br> *Member of Society of Women Engineers (SWE)*<br> *Member*<br><br> *Key Club International*<br> Aug 2015 - May 2018<br> *Member*<br> Volunteered at various locations with the club<br><br> *Holiday Donation Collector (Bell Ringer)*<br> Nov 2016 - Jan 2018<br> Volunteered for Salvation Army to collect donations during the holiday season<br><br> *Guitarist*<br> Aug 2012 - May 2018<br> Member of classical guitar ensembles in Middle and High School<br>	
 ## SKILLS
 #### TECHNICAL SKILLS
 Microsoft Word, Powerpoint, Excel<br> Programming Languages: Python, HTML, Java<br> Git and GitHub<br>
@@ -35,7 +35,10 @@ Organized<br> Detail-Oriented<br> Creative
 + Intro to Calculus with Business Applications<br> 
 + IT Architecture Fundamentals<br>
 + Intro to Computing<br> 
-+ Discrete Structures
++ Discrete Structures<br>
++ IT Problem Solving: Java (In Progress)<br>
++ Multimedia and Web Design (In Progress)<br>
++ Database Fundamentals (In Progress)<br>
 
 
 
