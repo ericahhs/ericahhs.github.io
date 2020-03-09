@@ -1,15 +1,17 @@
 ##### This is a personal website with information similar to my resume! (This is not my official resume)
 ## Last Update: 08 March 2020
-### For the most up-to-date information check out my LinkedIn: linkedin.com/in/erica-hoots/
+### For the most up-to-date information connect with me on LinkedIn: 
+linkedin.com/in/erica-hoots/
 
 ## OBJECTIVE
 To explore IT careers and expand my knowledge in programming while sharing my knowledge of information technologies to create more efficient solutions
 ## EDUCATION
-George Mason University<br> Aug 2018 - Present<br> Information Technology (IT)<br>
+George Mason University<br> Expected Graduation: May 2022<br> Information Technology (IT)<br>
 *Planned Concentrations*: 
 + Database Administration & Programming
 + Security<br>
 *Overall GPA: 3.98*<br> Department GPA: 4.0<br>
+
 ## EXPERIENCE
 *National Aeronautics and Space Administration (NASA)*<br> Jun 2019 - Aug 2019<br>
 Summer Intern (Information Technology & Communications Division)<br>
