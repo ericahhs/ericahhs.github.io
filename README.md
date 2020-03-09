@@ -20,8 +20,8 @@ Summer Intern (Information Technology & Communications Division)<br><br>
 ## VOLUNTEER/ORGANIZATIONS
 *Student-Run Computing and Technology (SRCT)*<br> Sept 2019 - Present<br> *Member*<br> Supporting the management of university web pages through GitLab<br> Using git and GitLab to provide meaningful contributions to ongoing projects<br><br> *Society of Women Engineers (SWE)*<br> Sept 2019 - Present<br> *Member*<br><br> *Key Club International*<br> Aug 2015 - May 2018<br> *Member*<br> Volunteered at various locations with the club<br><br> *Holiday Donation Collector (Bell Ringer)*<br> Nov 2016 - Jan 2018, Dec 2019<br> Volunteered for Salvation Army to collect donations during the holiday season<br><br> *Guitarist*<br> Aug 2012 - May 2018<br> Member of classical guitar ensembles in Middle and High School<br>	
 ## PROJECTS
-MySQL Database Project<br><br>
-Website from Scratch Project<br><br>
+MySQL Database Project<br>
+Website from Scratch Project<br>
 Programming Projects<br>
 ## SKILLS
 #### TECHNICAL SKILLS
