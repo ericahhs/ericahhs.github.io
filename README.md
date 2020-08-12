@@ -15,7 +15,7 @@ George Mason University<br> Expected Graduation: May 2022<br> Information Techno
 
 ## EXPERIENCE
 *Telos Corporation*<br> Jun 2020 - Aug 2020<br>
-Summer Intern (Software QUality Assurance Automation Team)<br><br>
+Summer Intern (Software Quality Assurance Automation Team)<br><br>
 *National Aeronautics and Space Administration (NASA)*<br> Jun 2019 - Aug 2019<br>
 Summer Intern (Information Technology & Communications Division)<br><br>
 *National Rural Telecommunications Cooperative (NRTC)*<br> Jun 2018 - Aug 2018<br> Summer Intern (Legal Department)<br>
