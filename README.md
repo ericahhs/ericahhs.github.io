@@ -27,7 +27,7 @@ Website from Scratch Project<br>
 Programming Projects<br>
 ## SKILLS
 #### TECHNICAL SKILLS
-Microsoft Word, Powerpoint, Excel<br> Programming Languages/Scripting: Java, Groovy, HTML/CSS, Python<br> Tools:<br>Katalon Studio<br>Git and GitHub<br>MySQL<br>
+Microsoft Word, Powerpoint, Excel<br> Programming Languages/Scripting: Java, Groovy, HTML/CSS, Python<br>Katalon Studio<br>Git and GitHub<br>MySQL<br>
 #### SOFT SKILLS
 Organized<br> Detail-Oriented<br> Creative
 ## MOST RELEVANT COURSES
