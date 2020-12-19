@@ -7,7 +7,7 @@ linkedin.com/in/erica-hoots/
 Looking to explore IT careers and provide companies/agencies with my current skill set. Hoping to support a mission related to space, defense, and/or the intelligence community
 ## EDUCATION
 George Mason University<br> Expected Graduation: May 2022<br> Information Technology (IT)<br>
-*Dual Concentrations*: 
+*Concentrations*: 
 + Database Technology  & Programming
 + Security<br>
 
@@ -25,7 +25,7 @@ Summer Intern (Information Technology & Communications Division)<br><br>
 MySQL Database Project<br>
 Website from Scratch Project<br>
 Programming Projects<br>
-Game Design Project<br>
+Game Design Project: https://gadig.itch.io/morgs-mimics - Created the background title art, concept art for characters, and animations for in-game use<br>
 ## SKILLS
 #### TECHNICAL SKILLS
 Microsoft Word, Powerpoint, Excel<br> Programming Languages/Scripting: Java, Groovy, HTML/CSS, Python<br>Katalon Studio<br>Git and GitHub<br>MySQL<br>PHP<br>
@@ -33,7 +33,7 @@ Microsoft Word, Powerpoint, Excel<br> Programming Languages/Scripting: Java, Gro
 Organized<br> Detail-Oriented<br> Creative
 ## MOST RELEVANT COURSES
 + Intro to Calculus with Business Applications<br> 
-+ Applied IT Programming<br>
++ Applied IT Programming (PHP)<br>
 + Information Security Fundamentals<br> 
 + Discrete Structures (Python)<br>
 + IT Problem Solving (Java)<br>
