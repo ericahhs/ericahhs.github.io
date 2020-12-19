@@ -28,7 +28,7 @@ Programming Projects<br>
 Game Design Project: https://gadig.itch.io/morgs-mimics - Created the background title art, concept art for characters, and animations for in-game use<br>
 ## SKILLS
 #### TECHNICAL SKILLS
-Microsoft Word, Powerpoint, Excel<br> Programming Languages/Scripting: Java, Groovy, HTML/CSS, Python<br>Katalon Studio<br>Git and GitHub<br>MySQL<br>PHP<br>
+Microsoft Word, Powerpoint, Excel<br> Programming Languages/Scripting: Java, Groovy, HTML/CSS, Python, PHP, MySQL<br>Katalon Studio<br>Git and GitHub<br>Eclipse<br>
 #### SOFT SKILLS
 Organized<br> Detail-Oriented<br> Creative
 ## MOST RELEVANT COURSES
