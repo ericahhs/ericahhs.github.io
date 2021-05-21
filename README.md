@@ -42,6 +42,10 @@ Organized<br> Detail-Oriented<br> Creative
 + Database Fundamentals (MySQL)<br>
 
 
+##images
+images/drawing2.jpeg
+
+
 
 
 
