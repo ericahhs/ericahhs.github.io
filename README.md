@@ -1,6 +1,6 @@
-##### This is a personal website with examples of my artwork
+##### This is a personal website with a focus on my artwork and creativity
 ## Last Update: 21 May 2021
-### For the most up-to-date information, connect with me on LinkedIn: 
+### For the more information, connect with me on LinkedIn: 
 linkedin.com/in/erica-hoots/
 
 ## SUMMARY
@@ -26,6 +26,15 @@ Created in-game art as well as character concepts for games:<br>
 <img src="images/drawing10.jpg" alt="Character Art2" style="width:48%"/>
 <img src="images/drawing1.png" alt="Character Art" style="width:40%"/>
 <img src="images/drawing3.jpg" alt="Character Sitting" style="width:40%"/>
+
+## MUSIC
+**Can read bass and treble clef sheet music**<br>
+Continued practice of guitar - not in an ensemble (2018-Present)<br>
+Introduction to Music Theory course during college (Spring 2019)<br>
+Member of a classical guitar ensemble during middle and high school (2013-2018)<br>
+Member of orchestra for cello during middle school (2011-2012)
+
+
 
 
 
