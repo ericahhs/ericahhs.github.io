@@ -43,7 +43,7 @@ Organized<br> Detail-Oriented<br> Creative
 
 
 ##images
-images/drawing2.jpeg
+images/drawing2.jpg
 
 
 
