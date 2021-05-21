@@ -14,11 +14,18 @@ George Mason University<br> Expected Graduation: December 2022<br> Information T
 *Overall GPA: 3.99*<br> Department GPA: 4.0<br>
 
 ## ARTWORK
+#### Projects
+Created in-game art as well as character concepts for games:<br>
+**Morg's Mimics:** https://gadig.itch.io/morgs-mimics<br>
+**Attack of the Magic Cardboard:** https://gadig.itch.io/attack-of-the-magic-cardboard
+
+#### Personal Art
 <img src="images/drawing4.jpg" alt="Flame Art" style="width:43%"/>
 <img src="images/drawing5.jpg" alt="Small Monster" style="width:35%"/>
 <img src="images/drawing6.jpg" alt="Fullbody Character" style="width:50%"/>
 <img src="images/drawing10.jpg" alt="Character Art2" style="width:48%"/>
 <img src="images/drawing1.png" alt="Character Art" style="width:40%"/>
+<img src="images/drawing3.jpg" alt="Character Sitting" style="width:40%"/>
 
 
 
