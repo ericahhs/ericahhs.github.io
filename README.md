@@ -1,7 +1,7 @@
 ##### This is a personal website with a focus on my artwork and creativity
 ## Last Update: 21 May 2021
 ### For more information, connect with me on LinkedIn: 
-linkedin.com/in/erica-hoots/
+<a href="linkedin.com/in/erica-hoots/">linkedin.com/in/erica-hoots/</a>
 
 ## SUMMARY
 Creative and meticulous IT student hoping to support a mission related to space exploration, defense, and/or the intelligence community in the future.
@@ -16,8 +16,8 @@ George Mason University<br> Expected Graduation: December 2022<br> Information T
 ## ARTWORK
 #### Projects
 Created in-game art as well as character concepts for games:<br>
-**Morg's Mimics:** https://gadig.itch.io/morgs-mimics<br>
-**Attack of the Magic Cardboard:** https://gadig.itch.io/attack-of-the-magic-cardboard
+**Morg's Mimics:** <a href="https://gadig.itch.io/morgs-mimics">https://gadig.itch.io/morgs-mimics</a><br>
+**Attack of the Magic Cardboard:** <a href="https://gadig.itch.io/attack-of-the-magic-cardboard">https://gadig.itch.io/attack-of-the-magic-cardboard</a>
 
 #### Personal Art
 <img src="images/drawing4.jpg" alt="Flame Art" style="width:43%"/>
