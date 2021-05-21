@@ -41,9 +41,7 @@ Organized<br> Detail-Oriented<br> Creative
 + Multimedia and Web Design (HTML & CSS)<br>
 + Database Fundamentals (MySQL)<br>
 
-
-##images
-images/drawing2.jpg
+#test: images/drawing2.jpg
 
 
 
