@@ -1,6 +1,6 @@
 ##### This is a personal website with a focus on my artwork and creativity
 ## Last Update: 21 May 2021
-### For the more information, connect with me on LinkedIn: 
+### For more information, connect with me on LinkedIn: 
 linkedin.com/in/erica-hoots/
 
 ## SUMMARY
