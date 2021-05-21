@@ -14,11 +14,11 @@ George Mason University<br> Expected Graduation: December 2022<br> Information T
 *Overall GPA: 3.99*<br> Department GPA: 4.0<br>
 
 ## ARTWORK
-<img src="images/drawing4.jpg" alt="Flame Art" style="width:45%"/>
+<img src="images/drawing4.jpg" alt="Flame Art" style="width:40%"/>
 <img src="images/drawing5.jpg" alt="Small Monster" style="width:30%"/>
-<img src="images/drawing6.jpg" alt="Fullbody Character" style="width:30%"/>
-<img src="images/drawing10.jpg" alt="Character Art2" style="width:30%"/>
-<img src="images/drawing1.png" alt="Character Art" style="width:30%"/>
+<img src="images/drawing6.jpg" alt="Fullbody Character" style="width:40%"/>
+<img src="images/drawing10.jpg" alt="Character Art2" style="width:35%"/>
+<img src="images/drawing1.png" alt="Character Art" style="width:40%"/>
 
 
 
