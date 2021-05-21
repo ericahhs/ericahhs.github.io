@@ -1,7 +1,7 @@
 ##### This is a personal website with a focus on my artwork and creativity
 ## Last Update: 21 May 2021
 ### For more information, connect with me on LinkedIn: 
-<a href="linkedin.com/in/erica-hoots/">linkedin.com/in/erica-hoots/</a>
+<a href="https://www.linkedin.com/in/erica-hoots/">linkedin.com/in/erica-hoots/</a>
 
 ## SUMMARY
 Creative and meticulous IT student hoping to support a mission related to space exploration, defense, and/or the intelligence community in the future.
