@@ -14,6 +14,7 @@ George Mason University<br> Expected Graduation: December 2022<br> Information T
 *Overall GPA: 3.99*<br> Department GPA: 4.0<br>
 
 ##ARTWORK
+
 <img src="images/drawing1.png" alt="Character Art" class="inline"/>
 <img src="images/drawing2.jpg" alt="Character Art2" class="inline"/>
 
