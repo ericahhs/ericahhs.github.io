@@ -1,17 +1,15 @@
-##### This is a personal website with a focus on my artwork and creativity
-## Last Update: 21 May 2021
-### For more information, connect with me on LinkedIn: 
+### This is a personal website with a focus on Erica's artwork and creativity
+##### Last Update: 23 December 2021
+### For more information, connect with me on LinkedIn!: 
 <a href="https://www.linkedin.com/in/erica-hoots/">linkedin.com/in/erica-hoots/</a>
 
 ## SUMMARY
-Creative and meticulous IT student hoping to support a mission related to space exploration, defense, and/or the intelligence community in the future.
+Creative and meticulous student at George Mason University with experience working with IT/programming scenarios in both the government and private sector through summer internships. Seeking challenging roles in development, web design, and/or cybersecurity within the space, defense, and/or intelligence sectors.
 ## EDUCATION
 George Mason University<br> Expected Graduation: December 2022<br> Information Technology (IT)<br>
-*Concentrations*: 
-+ Database Technology  & Programming
-+ Security<br>
+&emsp; Concentration in  Database Technology  & Programming
 
-*Overall GPA: 3.99*<br> Department GPA: 4.0<br>
+*Overall GPA: 3.98*<br>
 
 ## ARTWORK
 #### Projects
@@ -24,15 +22,13 @@ Created in-game art as well as character concepts for games:<br>
 <img src="images/drawing5.jpg" alt="Small Monster" style="width:35%"/>
 <img src="images/drawing6.jpg" alt="Fullbody Character" style="width:50%"/>
 <img src="images/drawing10.jpg" alt="Character Art2" style="width:48%"/>
-<img src="images/drawing1.png" alt="Character Art" style="width:40%"/>
-<img src="images/drawing3.jpg" alt="Character Sitting" style="width:40%"/>
 
 ## MUSIC
-**Can read bass and treble clef sheet music**<br>
-Continued practice of guitar - not in an ensemble (2018-Present)<br>
-Introduction to Music Theory course during college (Spring 2019)<br>
-Member of a classical guitar ensemble during middle and high school (2013-2018)<br>
-Member of orchestra for cello during middle school (2011-2012)
+**Ability to read bass and treble clef sheet music**<br>
++ Continued practice of guitar - not in an ensemble (*2018-Present*)<br>
++ Introduction to Music Theory course during college (*Spring 2019*)<br>
++ Member of a classical guitar ensemble during middle and high school (*2013-2018*)<br>
++ Member of orchestra for cello during middle school (*2011-2012*)
 
 
 
