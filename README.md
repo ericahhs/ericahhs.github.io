@@ -20,10 +20,11 @@ Created in-game art as well as character concepts for games:<br>
 <img src="images/frame0001.png" alt="mimic drag" style="width:25%"/>
 <img src="images/frame0021.png" alt="mimic disgust" style="width:25%"/><br/>
 **Attack of the Magic Cardboard (Spring 2021):** <a href="https://gadig.itch.io/attack-of-the-magic-cardboard">https://gadig.itch.io/attack-of-the-magic-cardboard</a><br/>
-**Kobold Kwest (Fall 2021):** WIP<br/>
+**Kobold Kwest (Fall 2021):** <a href="https://gadig.itch,io/kobold-kwest">https://gadig.itch.io/kobold-kwest</a><br/>
 <img src="images/dragon_gameover_bkg.jpg" alt="Game Over" style="width:30%"/>
 <img src="images/kobold_title.png" alt="Title" style="width:30%"/>
 <img src="images/kobold_titlebkg_wCorrectSideProfiles.jpg" alt="Title Screen" style="width:30%"/>
+**One Man Band (Spring 2022):** WIP
 
 #### Personal Art
 <img src="images/drawing4.jpg" alt="Flame Art" style="width:43%"/>
