@@ -23,7 +23,7 @@ Created in-game art as well as character concepts for games:<br>
 **Kobold Kwest (Fall 2021):** <a href="https://gadig.itch,io/kobold-kwest">https://gadig.itch.io/kobold-kwest</a><br/>
 <img src="images/dragon_gameover_bkg.jpg" alt="Game Over" style="width:30%"/>
 <img src="images/kobold_title.png" alt="Title" style="width:30%"/>
-<img src="images/kobold_titlebkg_wCorrectSideProfiles.jpg" alt="Title Screen" style="width:30%"/>
+<img src="images/kobold_titlebkg_wCorrectSideProfiles.jpg" alt="Title Screen" style="width:30%"/><br/>
 **One Man Band (Spring 2022):** WIP
 
 #### Personal Art
