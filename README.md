@@ -5,10 +5,10 @@
 <a href="https://www.linkedin.com/in/erica-hoots/">linkedin.com/in/erica-hoots/</a>
 
 ## SUMMARY
-Creative and meticulous student at George Mason University with experience working with IT/programming scenarios in both the government and private sector through summer internships. Seeking challenging roles in development, web design, and/or cybersecurity within the space, defense, and/or intelligence sectors.
+Creative and meticulous student at George Mason University with experience working with IT/programming scenarios in both the government and private sector through summer internships. Seeking challenging roles in development, web design, and/or UIUX within the space, defense, and/or intelligence sectors.
 ## EDUCATION
 George Mason University<br> Expected Graduation: December 2022<br> Information Technology (IT)<br>
-&emsp; Concentration in  Database Technology  & Programming
+&emsp; Concentration in  Database Technology & Programming
 
 *Overall GPA: 3.98*<br>
 
@@ -24,7 +24,7 @@ Created in-game art as well as character concepts for games:<br>
 <img src="images/dragon_gameover_bkg.jpg" alt="Game Over" style="width:30%"/>
 <img src="images/kobold_title.png" alt="Title" style="width:30%"/>
 <img src="images/kobold_titlebkg_wCorrectSideProfiles.jpg" alt="Title Screen" style="width:30%"/><br/>
-**One Man Band (Spring 2022):** WIP
+**One Man Band (Spring 2022):** <a href="https://gadig.itch.io/one-man-band">https://gadig.itch.io/one-man-band</a>
 
 #### Personal Art
 <img src="images/drawing4.jpg" alt="Flame Art" style="width:43%"/>
