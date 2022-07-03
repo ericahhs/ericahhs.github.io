@@ -1,6 +1,6 @@
 ###### Erica Hoots
 ### This is a personal website with a focus on Erica's artwork and creativity
-##### Last Update: 23 December 2021
+##### Last Update: 3 July 2022
 ### For more information, connect with me on LinkedIn!: 
 <a href="https://www.linkedin.com/in/erica-hoots/">linkedin.com/in/erica-hoots/</a>
 
