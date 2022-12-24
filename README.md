@@ -4,7 +4,7 @@
 ### For more information, connect with me on LinkedIn!: 
 <a href="https://www.linkedin.com/in/erica-hoots/">linkedin.com/in/erica-hoots/</a>
 
-# PLEASE CHECK OUT MY UPDATED PORTFOLIO AT: https://ericahoots.com/portfolio/
+# PLEASE CHECK OUT MY UPDATED PORTFOLIO: https://ericahoots.com/portfolio/
 
 ## SUMMARY
 Creative and meticulous student at George Mason University with experience working with IT/programming scenarios in both the government and private sector through summer internships. Seeking challenging roles in development, web design, and/or UIUX within the space, defense, and/or intelligence sectors.
