@@ -2,9 +2,10 @@
 ### This is a personal website with a focus on Erica's artwork and creativity
 ##### Last Update: 3 July 2022
 ### For more information, connect with me on LinkedIn!: 
+<a href="https://www.linkedin.com/in/erica-hoots/">https://www.linkedin.com/in/erica-hoots/</a>
 
 
-# PLEASE CHECK OUT MY UPDATED PORTFOLIO: <a href="https://ericahoots.com/portfolio/">https://ericahoots.com/portfolio//</a>
+# PLEASE CHECK OUT MY UPDATED PORTFOLIO: <a href="https://ericahoots.com/portfolio/">https://ericahoots.com/portfolio/</a>
 
 ## SUMMARY
 Creative and meticulous student at George Mason University with experience working with IT/programming scenarios in both the government and private sector through summer internships. Seeking challenging roles in development, web design, and/or UIUX within the space, defense, and/or intelligence sectors.
