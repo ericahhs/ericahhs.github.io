@@ -7,23 +7,24 @@
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-    background: linear-gradient(to right, #f0f0f0, #d0d0d0);
+    background: url('images/cherryblossoms.jpg') center/cover no-repeat fixed;
+    /* OR use a gradient like before: */
+    /* background: linear-gradient(to right, #f0f0f0, #d0d0d0); */
     display: flex;
     align-items: center;
     justify-content: center;
     min-height: 100vh;
   }
   
-  /* Card styling */
   .card {
     background: white;
-    padding: 2rem;
-    border-radius: 12px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    padding: 3rem;
+    border-radius: 16px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
     text-align: center;
-    max-width: 90%;
-    width: 400px;
-  }
+    max-width: 95%;
+    width: 500px;
+  } 
   
   .title {
     font-size: 2rem;
