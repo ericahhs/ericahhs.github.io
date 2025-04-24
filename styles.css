@@ -6,7 +6,7 @@
   body {
     margin: 0;
     padding: 0;
-    font-family: sans-serif;
+    font-family: system-ui, sans-serif;
     background: url('images/cherryblossoms.jpg') center/cover no-repeat fixed;
     /* OR use a gradient like before: */
     /* background: linear-gradient(to right, #f0f0f0, #d0d0d0); */
@@ -47,12 +47,12 @@
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    gap: 1rem;
+    gap: 1.5rem;
   }
   
   .links img {
-    width: 40px;
-    height: 40px;
+    width: 50px;
+    height: 50px;
     transition: transform 0.2s;
   }
   
@@ -75,3 +75,33 @@
       height: 32px;
     }
   } 
+
+  #typewriter-container {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 40px;
+  }
+
+  #typewriter {
+    display: inline-block;
+    min-height: 32px;
+    margin: 0;
+    color: dodgerblue
+  }
+  
+  #cursor {
+    display: inline-block;
+    width: 6px;
+    margin-left: 3px;
+    height: 24px; /* Adjust the height to match the text */
+    background-color: dodgerblue;
+    animation: blink 1s step-end infinite;
+  }
+  
+  @keyframes blink {
+    50% {
+      opacity: 0;
+    }
+  }
