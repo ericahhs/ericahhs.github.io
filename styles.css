@@ -7,7 +7,7 @@
     margin: 0;
     padding: 0;
     font-family: system-ui, sans-serif;
-    background: url('images/cherryblossoms.jpg') center/cover no-repeat fixed;
+    background: url('images/flowers.jpg') center/cover no-repeat fixed;
     /* OR use a gradient like before: */
     /* background: linear-gradient(to right, #f0f0f0, #d0d0d0); */
     display: flex;
@@ -16,25 +16,42 @@
     min-height: 100vh;
   }
   
+
   .card {
-    background: linear-gradient(to right, #6aaeff, #fafaff);
+    margin: 2rem auto;
+    background: linear-gradient(to right, #6aaeffcc, #e8f5f6cf);
     padding: 3rem;
     border-radius: 16px;
-    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
-    text-align: center;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.4);
     max-width: 95%;
-    width: 500px;
+    min-width: 500px
+  }
+  
+  .card-content {
     display: flex;
-    flex-wrap: wrap;
-    align-content: center;
     align-items: center;
-    justify-content: center;
+    gap: 3.5rem;
+  }
+  
+  .profile-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow: 10px 14px 20px rgba(0, 0, 0, 0.4);
+  }
+  
+  .text-content {
+    display: flex;
     flex-direction: column;
-  } 
+    justify-content: center;
+    align-items: center;
+  }
   
   .title {
     font-size: 2rem;
-    margin-bottom: 0.2em;
+    font-weight: 500;
+    margin-bottom: 0.2rem;
   }
   
   .subtitle {
@@ -42,7 +59,8 @@
     color: #555;
     margin-bottom: 1em;
   }
-  
+
+ 
   .links {
     display: flex;
     justify-content: center;
@@ -62,6 +80,11 @@
   
   /* Mobile tweaks if needed */
   @media (max-width: 400px) {
+    .profile-img {
+      width: 60%;
+      height: 60%;
+    }
+    
     .title {
       font-size: 1.5rem;
     }
@@ -74,7 +97,23 @@
       width: 32px;
       height: 32px;
     }
+
   } 
+
+  @media (max-width: 655px) {
+    .card {
+      width: 85%;
+      min-width: 0;
+      padding: 3rem 0;
+    }
+
+    .text-content {
+      text-align: center;
+    }
+    .card-content {
+      flex-direction: column;
+    }
+  }
 
   #typewriter-container {
     display: flex;
